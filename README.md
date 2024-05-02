@@ -1,2 +1,2 @@
 # kfood
-https://kafil-kawsar77.github.io/kfood/
+https://kafilkawsar.github.io/kfood/
